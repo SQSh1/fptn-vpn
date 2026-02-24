@@ -25,7 +25,6 @@
        height="auto"
        style="border:0; margin-left: 10px; vertical-align: middle;">
 </a>
----
 
 ### Core Features of FPTN
 
@@ -246,4 +245,5 @@ It provides:
 
 Project repository:  
 https://github.com/FarazFe/fptn-manager
+
 
