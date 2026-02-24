@@ -16,6 +16,15 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/batchar2/fptn/total.svg?style=for-the-badge&logo=github&logoColor=white&label=Downloads&labelColor=181717)](https://github.com/batchar2/fptn/releases)
 </div>
 
+## download official version from Google play 
+
+<a href="https://play.google.com/store/apps/details?id=org.fptn.vpn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       width="165"
+       height="auto"
+       style="border:0; margin-left: 10px; vertical-align: middle;">
+</a>
 ---
 
 ### Core Features of FPTN
@@ -237,3 +246,4 @@ It provides:
 
 Project repository:  
 https://github.com/FarazFe/fptn-manager
+
